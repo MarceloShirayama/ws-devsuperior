@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Olá, semana Spring React!!!</h1>
+      <h1 className="text-primary">Olá, semana Spring React!!!</h1>
     </div>
   );
 }
