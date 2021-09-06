@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <div>
+    <div className="container">
       <h1 className="text-primary">Olá, semana Spring React!!!</h1>
     </div>
     </>
