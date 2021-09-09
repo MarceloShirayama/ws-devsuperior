@@ -1,0 +1,6 @@
+### Variables
+@url_base=http://localhost:8080
+@route=sales/amount-by-seller
+
+### List amount sales by seller
+GET {{url_base}}/{{route}}
