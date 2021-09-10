@@ -1,5 +1,9 @@
+import Navbar from "components/Navbar"
+
 function Home() {
   return (
+    <>
+    <Navbar />
     <div className="container">
       <div className="jumbotron">
         <h1 className="display-4">DSVendas</h1>
@@ -8,8 +12,8 @@ function Home() {
         <p>Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.</p>
       </div>
     </div>
-
-  );
+    </>
+  )
 }
 
 export default Home
