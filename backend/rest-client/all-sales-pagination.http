@@ -3,6 +3,7 @@
 @url_base=http://localhost:8080
 # url Heroku
 # @url_base=https://sds4-backend-marcelo.herokuapp.com
+
 @route=sales
 
 ### List all sellers

@@ -1,6 +1,9 @@
 ### Variables
-# @url_base=http://localhost:8080
-@url_base=https://sds4-backend-marcelo.herokuapp.com
+#url local
+@url_base=http://localhost:8080
+# url Heroku
+# @url_base=https://sds4-backend-marcelo.herokuapp.com
+
 @route=sales/success-by-seller
 
 ### List success sales by seller
